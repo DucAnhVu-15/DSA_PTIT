@@ -2,6 +2,7 @@
 
 using namespace std;
 
+vector<int> a;
 struct Node
 {
     int data;
